@@ -3,4 +3,6 @@
 .jupyter
 .local
 .nv
+.idea
+.cache
 MNIST
